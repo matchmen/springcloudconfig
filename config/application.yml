@@ -1,11 +1,1 @@
-server:
-  port: 8081
-
-spring:
-  application:
-    name: euerka-cliect
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8080/eureka/
+user: admin
